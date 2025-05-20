@@ -19,7 +19,7 @@ This is a FastAPI backend for storing health metrics (hydration, fatigue, postur
 
 -Fastapi
 
-## Api
+## Api Endpoints
 
 1. User Registration API
 What it does:
