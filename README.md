@@ -51,3 +51,6 @@ Gets the list of all devices registered by the user.
 ![Screenshot (62)](https://github.com/user-attachments/assets/04ca3493-f815-4bd9-a9a6-3c9f2dccc957)
 
 
+
+
+
